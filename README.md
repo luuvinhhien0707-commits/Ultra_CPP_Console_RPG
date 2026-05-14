@@ -1,5 +1,4 @@
 # Ultra_CPP_Console_RPG
-
 A simple terminal RPG game made with C++.
 
 ## Features
@@ -37,4 +36,4 @@ A simple terminal RPG game made with C++.
 - More enemy types
 
 ## Author
-Hiển 😎
+Luu Vinh Hien
